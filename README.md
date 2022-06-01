@@ -1,6 +1,6 @@
 # utesting-dotnet
 
-.NET module for unit testing
+.NET library for unit testing
 
 `TestOne` — test test group
 
