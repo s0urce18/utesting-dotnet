@@ -1,0 +1,10 @@
+C:\Works\myDotNetModules\Utesting\UtestingTools\bin\Debug\net6.0\UtestingTools.deps.json
+C:\Works\myDotNetModules\Utesting\UtestingTools\bin\Debug\net6.0\UtestingTools.dll
+C:\Works\myDotNetModules\Utesting\UtestingTools\bin\Debug\net6.0\UtestingTools.pdb
+C:\Works\myDotNetModules\Utesting\UtestingTools\obj\Debug\net6.0\UtestingTools.csproj.AssemblyReference.cache
+C:\Works\myDotNetModules\Utesting\UtestingTools\obj\Debug\net6.0\UtestingTools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Works\myDotNetModules\Utesting\UtestingTools\obj\Debug\net6.0\UtestingTools.csproj.CoreCompileInputs.cache
+C:\Works\myDotNetModules\Utesting\UtestingTools\obj\Debug\net6.0\UtestingTools.dll
+C:\Works\myDotNetModules\Utesting\UtestingTools\obj\Debug\net6.0\refint\UtestingTools.dll
+C:\Works\myDotNetModules\Utesting\UtestingTools\obj\Debug\net6.0\UtestingTools.pdb
+C:\Works\myDotNetModules\Utesting\UtestingTools\obj\Debug\net6.0\ref\UtestingTools.dll

@@ -1,0 +1,12 @@
+C:\Works\myDotNetModules\Utesting\Utesting\obj\Debug\net6.0\Utesting.csproj.AssemblyReference.cache
+C:\Works\myDotNetModules\Utesting\Utesting\obj\Debug\net6.0\Utesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Works\myDotNetModules\Utesting\Utesting\obj\Debug\net6.0\Utesting.csproj.CoreCompileInputs.cache
+C:\Works\myDotNetModules\Utesting\Utesting\bin\Debug\net6.0\Utesting.deps.json
+C:\Works\myDotNetModules\Utesting\Utesting\bin\Debug\net6.0\Utesting.dll
+C:\Works\myDotNetModules\Utesting\Utesting\bin\Debug\net6.0\Utesting.pdb
+C:\Works\myDotNetModules\Utesting\Utesting\bin\Debug\net6.0\UtestingTools.dll
+C:\Works\myDotNetModules\Utesting\Utesting\obj\Debug\net6.0\Utesting.csproj.CopyComplete
+C:\Works\myDotNetModules\Utesting\Utesting\obj\Debug\net6.0\Utesting.dll
+C:\Works\myDotNetModules\Utesting\Utesting\obj\Debug\net6.0\refint\Utesting.dll
+C:\Works\myDotNetModules\Utesting\Utesting\obj\Debug\net6.0\Utesting.pdb
+C:\Works\myDotNetModules\Utesting\Utesting\obj\Debug\net6.0\ref\Utesting.dll
