@@ -16,7 +16,7 @@ Download `.dll` files from `DLLs` folder or download `DLLs.zip`
     using Utesting;
     ```
 
-## Using
+## Using:
 
 `TestOne<T1, T2, ..., TAnsw>(TestGroup<T1, T2, ..., TAnsw> group, Action<string?> output)` — test one test group
 
